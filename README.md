@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋  
+I'm a Hungarian currently living in Vienna, Austria, where I'm studying at [42 Vienna](https://www.42vienna.com/) and expanding my skills in both technical and leadership areas. My background blends hands-on experience with strong problem-solving abilities.
 
-<!--
-**Csicsi/Csicsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me  
+- 🌍 Originally from Hungary, now living in **Vienna, Austria**  
+- 🗣️ I speak **Hungarian, Croatian, German,** and **English** fluently, and I’m currently learning **Italian**  
+- 🍔 Working at **McDonald’s** since 2015, serving as **Deputy Restaurant Manager** for the past 5 years  
+- 🔧 Extensive experience in **leadership**, overseeing **inventory management**, **maintenance**, **deep cleaning operations**, and handling all **computer-related** tasks at the restaurant  
+- 🎓 Currently studying at **[42 Vienna](https://www.42vienna.com/)**  
+- 🧠 Developed strong **soft skills** in **team leadership**, communication, and operational efficiency in a fast-paced environment  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack 🛠️  
+- **C Programming**: Strong focus on system-level programming  
+- **Unix/Linux**: Primary development environment  
+- **GitHub**: Managing version control and collaboration for projects  

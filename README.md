@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋  
+# Hi there, I'm Daniel Csicsak 👋  
 I'm a Hungarian currently living in Vienna, Austria, where I'm studying at [42 Vienna](https://www.42vienna.com/) and expanding my skills in both technical and leadership areas. My background blends hands-on experience with strong problem-solving abilities.
 
 ## About Me  

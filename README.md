@@ -5,7 +5,7 @@ I'm a Hungarian currently living in Vienna, Austria, where I'm studying at [42 V
 - 🌍 Originally from Hungary, now living in **Vienna, Austria**  
 - 🗣️ I speak **Hungarian, Croatian, German,** and **English** fluently, and I’m currently learning **Italian**  
 - 🍔 Working at **McDonald’s** since 2015, serving as **Deputy Restaurant Manager** for the past 5 years  
-- 🔧 Extensive experience in **leadership**, overseeing **inventory management**, **maintenance**, **deep cleaning operations**, and handling all **computer-related** tasks at the restaurant  
+- 🔧 Extensive experience in **leadership**, overseeing **inventory management**, **maintenance**, and handling all **computer-related** tasks at the restaurant  
 - 🎓 Currently studying at **[42 Vienna](https://www.42vienna.com/)**  
 - 🧠 Developed strong **soft skills** in **team leadership**, communication, and operational efficiency in a fast-paced environment  
 

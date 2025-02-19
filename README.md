@@ -1,5 +1,5 @@
 # Hi there, I'm Daniel Csicsak 👋  
-I'm a Hungarian currently living in Vienna, Austria, where I'm studying at [42 Vienna](https://www.42vienna.com/) and expanding my skills in both technical and leadership areas. My background blends hands-on experience with strong problem-solving abilities.
+I'm a Hungarian currently living in Vienna, Austria, where I'm studying at [42 Vienna](https://www.42vienna.com/) and expanding my skills in various technical areas. My background blends hands-on experience with strong problem-solving abilities.
 
 ## About Me  
 - 🌍 Originally from Hungary, now living in **Vienna, Austria**  
